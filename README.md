@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Radu! 👋
 
-<!--
-**DucuH/DucuH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NumeleTauGitHub&theme=react-dark&hide_border=true" width="100%" />
+</div>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me 🧑‍💻
+
+- 📍 Based in **Timișoara, Romania**
+- 🎓 Student at Colegiul National Pedagogic "Carmen Sylva" Timisoara
+- 📫 If you want to reach me out: **ducuhandrea@gmail.com**
+
+## About my activity 🚀
+
+- 💻 **WEB Developer, Robot programmer, AI Creator, Game Developer**
+- 🏆 **Champion** @ RoboTEC
+
+---
+
+## Stats 📊
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NumeleTauGitHub&theme=dark&hide_border=true" width="100%" />
+      </td>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NumeleTauGitHub&layout=compact&theme=dark&hide_border=true" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## Technologies used 🛠️
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,py,cpp,c,html,css,js,git,linux,vscode" />
+</p>

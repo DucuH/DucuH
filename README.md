@@ -9,7 +9,7 @@
 ## About my activity 🚀
 
 - 💻 **WEB Developer, Robot programmer, AI Creator, Game Developer**
-- 🏆 **Champion** @ RoboTEC
+- 🏆 **Champion** @RoboTEC
 
 ---
 ## Technologies used 🛠️
